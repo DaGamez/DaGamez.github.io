@@ -1,0 +1,10 @@
+# main links
+main:
+   - title: "Acerca de mi"
+     url: /about/
+   - title: "mis Posts"
+     url: /year-archive/
+   - title: "Servicios"
+     url: /services/
+   - title: "Portafolio"
+     url: /portfolio/
